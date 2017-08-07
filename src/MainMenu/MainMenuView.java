@@ -237,7 +237,7 @@ public class MainMenuView extends JLayeredPane implements GameView {
 		JOptionPane.showMessageDialog(null,
 									 "<html>" + 
 						    		 "<h2>Hall of Bones</h2>" + 
-						    		 "<p>A game by Kevin Joseph, Andrew Fuoco, Anton Thomas, Alan Tang, and Yi Ngan for EECS2030</p>" + 
+						    		 "<p>A game by Kevin Joseph, Andrew Laniak-Fuoco, Anton Thomas, Alan Tang, and Yi Ngan for EECS2030</p>" + 
 						    		 "</html>",
                 					 "Credits", JOptionPane.INFORMATION_MESSAGE);
 	}
